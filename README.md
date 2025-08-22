@@ -1,4 +1,4 @@
-# Türkçe Mağaza Yorumları Üzerine Duygu Analizi
+# Türkçe Yorumlar Üzerine Duygu Analizi
 
 Bu proje, Türkçe müşteri yorumlarını **olumlu / olumsuz / nötr** olarak sınıflandırmak için hazırlandı.  
 Metinler üzerinde TF-IDF tabanlı bir vektörleştirme yapılıyor ve birkaç farklı makine öğrenmesi modeli deneniyor.  
